@@ -1,4 +1,7 @@
 # world_domination_project46
 This is OP
 primer cambio en readme del repositorio clonado
-intento de crear conflicto del world_domination_project46
+
+=======
+cambio del wdo_cloned
+>>>>>>> c10e4e19f16224e47495f1d016f3aacb5dca8e06
